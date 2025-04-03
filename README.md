@@ -1,4 +1,4 @@
-# Data-MIning-2
+# Data-Mining-2
  There are 4 modules for this project:
  • Module 1: Data Understanding & Preparation
  • Module 2: Time Series Analysis
